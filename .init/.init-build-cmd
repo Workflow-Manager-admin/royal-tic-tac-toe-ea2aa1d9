@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/royal-tic-tac-toe-ea2aa1d9/android_frontend"
+}
